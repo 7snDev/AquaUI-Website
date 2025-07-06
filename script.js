@@ -72,5 +72,5 @@ function contactPop() {
 contact.addEventListener("click", () => contactPop());
 
 document.querySelector(".logo").addEventListener("click", () => {
-  window.location.href = "/";
+  window.location.href = "https://7sndev.github.io/AquaUI-Website/";
 })
